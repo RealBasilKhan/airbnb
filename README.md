@@ -1,29 +1,38 @@
-# Next.js + Tailwind CSS Example
+# Airbnb Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/basilk76/airbnb-yt?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/basilk76/airbnb-yt?style=flat&logo=appveyor)
+  
+  Check out the badges hosted by [shields.io](https://shields.io/).
+  
+  
+  ## Description 
+  
+  *The what, why, and how:* 
+  
+  Airbnb clone built using NextJS and mapbox to show a list of properties for rent on a map. The front end is designed in React with on-brand colors to reflect the Airbnb layout and user experience. The user is able to select a property, which thenshows on a map.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Contributing](#contributing)
+  * [License](#license)
+  
+  ## Installation
+  
+  *Steps required to install project and how to get the development environment running:*
+  
+  npm install
+  
+  ## License
+  
+  MIT License
+  
+  ---
+  
+  ## Questions?
+  
+  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/45275512?v=4) 
+  
+  For any questions, please contact me with the information below:
+ 
+  GitHub: [@basilk76](https://api.github.com/users/basilk76)
+  
