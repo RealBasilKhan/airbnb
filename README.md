@@ -2,7 +2,8 @@
 
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/basilk76/airbnb-yt?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/basilk76/airbnb-yt?style=flat&logo=appveyor)
   
-  
+  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/45275512?v=4) 
+ 
   ## Description 
   
   *The what, why, and how:* 
